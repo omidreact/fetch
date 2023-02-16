@@ -3,3 +3,11 @@
 fetch data console.log
 <br>
 expo start -a
+<br>
+fetch data from:<br>
+https://jsonplaceholder.typicode.com/posts/1
+<br>
+or
+<br>
+https://jsonplaceholder.typicode.com/posts
+
